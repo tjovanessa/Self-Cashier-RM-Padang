@@ -8,8 +8,8 @@ The Self Service Cashier app is designed to ease the ordering process for restau
 - Additional Order Prompt: After each order, users are asked if they want to add more items to their order.
 
 ### How to Use
-Run the application.
-View the menu displayed on the screen.
-Enter the number of the food item you wish to order.
-Enter the quantity for each selected item.
-After finishing, the application will display the order details and the total amount due.
+1. Run the application.
+2. View the menu displayed on the screen.
+3. Enter the number of the food item you wish to order.
+4. Enter the quantity for each selected item.
+5. After finishing, the application will display the order details and the total amount due.
